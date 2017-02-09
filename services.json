@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Hardware Repair",
+        "description": "Description 1",
+        "image": "http://www.freeiconspng.com/uploads/my-computer-icon--hydropro-v2-iconset--media-design-33.png"
+    },
+    {
+        "id": 2,
+        "name": "Virus Removal",
+        "description": "Description 2",
+        "image": "http://www.freeiconspng.com/uploads/my-computer-icon--hydropro-v2-iconset--media-design-33.png"
+    },
+    {
+        "id": 3,
+        "name": "System Tuneup",
+        "description": "Description 3",
+        "image": "http://www.freeiconspng.com/uploads/my-computer-icon--hydropro-v2-iconset--media-design-33.png"
+    }
+]
